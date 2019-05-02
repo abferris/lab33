@@ -51,5 +51,5 @@ UMLs Completed with: Erin Trainor, Jon Gentry, Spencer Hirata
     
 [part one sandbox](https://codesandbox.io/s/n771jx0mz0)    
   
-[UML](./lab33uml.jpg)  
+![UML](./lab33uml.jpg)  
   
